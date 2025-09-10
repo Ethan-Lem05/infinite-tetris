@@ -46,5 +46,6 @@ python main.py
 
 ## Development Notes
 
+A brain-rot version of Tetris that does not speed up. Made quickly so that I can play Tetris casually.
 The code in `main.py` is intentionally compact and designed for learning and experimentation. Feel free to fork the project and add your own twists.
 
