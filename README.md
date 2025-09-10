@@ -40,7 +40,7 @@ python main.py
 
 <!-- Replace these placeholders with your own images -->
 
-![Gameplay Screenshot](docs/images/gameplay.png)
+<img width="494" height="996" alt="image" src="https://github.com/user-attachments/assets/5660d27e-df65-4695-a686-4341e792e436" />
 
 ![Another Angle](docs/images/second-shot.png)
 
