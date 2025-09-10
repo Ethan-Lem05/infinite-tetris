@@ -42,8 +42,6 @@ python main.py
 
 <img width="494" height="996" alt="image" src="https://github.com/user-attachments/assets/5660d27e-df65-4695-a686-4341e792e436" />
 
-![Another Angle](docs/images/second-shot.png)
-
 ## Development Notes
 
 A brain-rot version of Tetris that does not speed up. Made quickly so that I can play Tetris casually.
